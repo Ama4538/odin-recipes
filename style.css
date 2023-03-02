@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+}
+
+.text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
